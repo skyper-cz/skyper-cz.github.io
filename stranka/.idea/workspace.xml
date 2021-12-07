@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5095788b-14ae-41d6-ab3a-420be1145d29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kEQU3RkJDnGSFTAvFyFjdiPfjR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../@instalace_CoolerMaster/node/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEB\stranka\html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB\stranka\style" />
+      <recent name="D:\WEB\stranka\src" />
+      <recent name="D:\WEB\stranka\html" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5095788b-14ae-41d6-ab3a-420be1145d29" name="Default Changelist" comment="" />
+      <created>1605263282177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605263282177</updated>
+      <workItem from="1605263283214" duration="5458000" />
+      <workItem from="1605784279463" duration="262000" />
+      <workItem from="1605858690345" duration="10952000" />
+      <workItem from="1606469330818" duration="6855000" />
+      <workItem from="1606477152621" duration="505000" />
+      <workItem from="1606669213306" duration="202000" />
+      <workItem from="1606669454558" duration="764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1068" y="374" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605264211544">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state x="-1068" y="374" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605264211544" />
+    <state x="-1060" y="327" key="FileChooserDialogImpl" timestamp="1605263392849">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state x="-1060" y="327" key="FileChooserDialogImpl/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263392849" />
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom" timestamp="1605263840382">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263840382" />
+    <state width="1659" height="272" key="GridCell.Tab.0.center" timestamp="1605263840382">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.center/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263840382" />
+    <state width="1659" height="272" key="GridCell.Tab.0.left" timestamp="1605263840382">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.left/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263840382" />
+    <state width="1659" height="272" key="GridCell.Tab.0.right" timestamp="1605263840382">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.right/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263840382" />
+    <state x="390" y="172" key="SettingsEditor" timestamp="1605784288278">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1339" y="217" key="SettingsEditor/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263402244" />
+    <state x="390" y="172" key="SettingsEditor/0.0.1920.1160/-1680.67.1680.1010@0.0.1920.1160" timestamp="1605784288278" />
+    <state x="-1184" y="266" key="run.anything.popup" timestamp="1605263700801">
+      <screen x="-1680" y="67" width="1680" height="1010" />
+    </state>
+    <state x="-1184" y="266" key="run.anything.popup/0.0.1920.1160/-1680.67.1680.1010@-1680.67.1680.1010" timestamp="1605263700801" />
+  </component>
+</project>

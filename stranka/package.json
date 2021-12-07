@@ -1,0 +1,27 @@
+{
+  "name": "stranka",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "sass-loader": "^10.1.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "lightbox2": "^2.11.3",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.29.0"
+  },
+  "main": "webpack.config.js",
+  "description": ""
+}
